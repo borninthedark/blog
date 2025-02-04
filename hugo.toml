@@ -35,3 +35,6 @@ key = 1
 name = "email"
 url = "mailto:princeton.strong@outlook.com"
 aria = "My e-Mail Address"
+
+[params]
+footerHtml = 'CC-0, 2025, Princeton A. Strong 
