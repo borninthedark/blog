@@ -3,12 +3,7 @@ title = "About Me"
 date = "2025-02-04"
 +++
 
-# Princeton A. Strong
-
-**Contact Information**  
-Phone: (206) 666-5568  
-Email: princeton.strong@outlook.com  
-
+# Hello, World! 
 ---
 
 ## Summary
