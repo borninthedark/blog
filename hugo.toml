@@ -1,8 +1,12 @@
 # hugo.toml for my Hugo Site
 
-baseURL = 'http://gohugo.io/'
+baseURL = ''
 languageCode = 'en-us'
 theme = "hugo-theme-nightfall"
+
+[module]
+[[module.imports]]
+  path = 'github.com/LordMathis/hugo-theme-nightfall'
 
 [menu]
   [[menu.header]]
