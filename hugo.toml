@@ -16,7 +16,7 @@ color = "green"
 [params]
 user = "$USER"
 hostname = "online"
-footerHtml = 'CC-0, 2025, Princeton A. Strong'
+footerHtml = '© 2025 Princeton A. Strong. Licensed under the Apache License 2.0.'
   [params.author]
     name = "Princeton A. Strong"  # Website and RSS feed author
     email = "princeton.strong@outlook.com"  # RSS feed email address
