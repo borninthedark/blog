@@ -15,7 +15,7 @@ Email: princeton.strong@outlook.com
 
 I’m a passionate, collaborative DevOps Engineer and Cloud Automation Consultant with extensive experience in designing, deploying, and automating scalable infrastructure solutions, particularly in Linux-based environments. I thrive in dynamic environments where teamwork and continuous learning are valued. 
 
-I specialize in containerization, particularly using **Docker** and **Docker Compose**, and have a deep understanding of the **Linux** ecosystem. My goal is to empower teams with efficient, reliable systems and help them move faster while maintaining security and performance.
+I specialize in containerization and orchestration, particularly using **Docker** and **Docker Compose**, and have a deep understanding of the **Linux** ecosystem. My goal is to empower teams with efficient, reliable systems and help them move faster while maintaining security and performance.
 
 ---
 

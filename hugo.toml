@@ -4,6 +4,9 @@ baseURL = ''
 languageCode = 'en-us'
 theme = "hugo-themes-nightfall"
 
+[params.styles]
+color = "green"
+
 [menu]
   [[menu.header]]
     name = "about"
