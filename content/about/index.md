@@ -21,10 +21,11 @@ Beyond my passion for DevOps and cloud automation, I love exploring new horizons
 
 🥘 **Cooking:** Late nights studying were often accompanied by reruns of **Iron Chef**, where I admired the skill and dedication of **Chen Kenichi**. His work ethic and mastery of Sichuan cuisine inspired me to bring the same passion and precision into everything I do—whether in the kitchen or in my career.  
 🌲 **The Outdoors:** Hiking, camping, and finding peace in nature.  
-🖖 **Star Trek: Deep Space Nine:** A masterpiece of storytelling, diplomacy, and complex characters that'll forever have a piece of my heart.  
-🎵 **Music:** Influenced by the smooth vocals of **Luther Vandross**, the cinematic compositions of **Ryuichi Sakamoto**, the electronic innovation of **BT**, the lyrical genius of **MF DOOM**, and the timeless soul of **Anita Baker**.  
-🐧 **Gentoo Linux:** Customization, optimization, and the joy of fine-tuning every detail on AMD Hardware.  
+🖖 **Star Trek: Deep Space Nine:** A masterpiece of storytelling, diplomacy, and complex characters.  
+🎵 **Music:** I'd say I'm influenced by the smooth vocals of **Luther Vandross**, the cinematic compositions of **Ryuichi Sakamoto**, the electronic innovation of **BT**, the lyrical genius of **MF DOOM**, the timeless soul of **Anita Baker**, and the soothing elegance of **Sade**.  
+🐧 **Gentoo Linux:** Customization, optimization, and the joy of fine-tuning every detail.  
 🚀 **Exploring New Frontiers:** Whether it’s in tech, travel, or personal growth, I’m always eager to learn and push boundaries.  
+
 
 ---
 
