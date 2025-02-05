@@ -41,7 +41,7 @@ Beyond my passion for DevOps and cloud automation, I’m always looking for new 
 ## 🛠 Core Skills & Tools  
 
 ✅ **Languages & Scripting:** Python, Golang, C#, Bash, PowerShell  
-✅ **Infrastructure as Code:** Terraform, CloudFormation, Ansible, Packer, Azure Bicep, ARM Templates 
+✅ **Infrastructure as Code:** Terraform, CloudFormation, Ansible, Packer, Azure Bicep
 ✅ **Cloud & Containers:** AWS, Azure, Linux, Docker, Kubernetes, Helm, Podman, Argo CD
 ✅ **CI/CD & Automation:** Jenkins, GitHub Actions, TeamCity, Rundeck  
 ✅ **Security & Monitoring:** IAM, Prometheus, Grafana, Splunk, Dynatrace
