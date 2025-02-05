@@ -15,13 +15,13 @@ I thrive in **collaborative, fast-paced settings**, specializing in **containeri
 
 ## 🌟 Interests  
 
-Beyond my passion for DevOps and cloud automation, I’m always looking for new ways to explore, create, and grow—whether through technology, storytelling, or hands-on experiences.  
+Beyond my passion for DevOps and cloud automation, I’m always looking for new ways to explore, create, and grow whether through technology, storytelling, or hands-on experiences.  
 
-🥘 **Cooking:** Some of my best late-night study sessions were accompanied by reruns of **Iron Chef**. Watching **Chen Kenichi** work with such precision and creativity made me want to approach my own work—whether in tech or the kitchen—with that same level of dedication and passion.  
+🥘 **Cooking:** Some of my best late-night study sessions were accompanied by reruns of **Iron Chef**. Watching **Chen Kenichi** work with such precision and creativity made me want to approach my own work whether in tech or the kitchen with that same level of dedication and passion.  
 🌲 **The Outdoors:** There’s something grounding about hiking and camping. Stepping away from screens, breathing fresh air, and taking in the quiet of nature helps me reset and find new perspectives.  
-🖖 **Science Fiction & Storytelling:** **Star Trek: Deep Space Nine** isn’t just great sci-fi—it’s a masterclass in leadership, diplomacy, and adaptability. Its complex characters and evolving storylines have stuck with me, shaping how I approach problem-solving and teamwork.  
+🖖 **Science Fiction & Storytelling:** **Star Trek: Deep Space Nine** isn’t just great sci-fi it’s a masterclass in leadership, diplomacy, and adaptability. Its complex characters and evolving storylines have stuck with me, shaping how I approach problem-solving and teamwork.  
 🎵 **Music:** My taste spans smooth R&B, electronic innovation, and poetic lyricism. I find inspiration in **Luther Vandross’s** soulful melodies, **Ryuichi Sakamoto’s** cinematic compositions, **BT’s** pioneering sound design, **MF DOOM’s** intricate wordplay, **Anita Baker’s** timeless vocals, and **Sade’s** effortless elegance. Whether working or unwinding, music is always part of the experience.  
-🐧 **Open-Source & Customization:** I have a deep appreciation for **Gentoo Linux**, not just as an OS but as a philosophy—taking the time to build something optimized for exactly what you need. There’s a certain satisfaction in fine-tuning every detail.  
+🐧 **Open-Source & Customization:** I have a deep appreciation for **Gentoo Linux**, not just as an OS but as a philosophy taking the time to build something optimized for exactly what you need. There’s a certain satisfaction in fine-tuning every detail.  
 🚀 **Exploring New Frontiers:** Whether it’s diving into a new technology, learning a new skill, or just pushing myself outside my comfort zone, I’m always looking for the next challenge.  
 
 
@@ -106,4 +106,4 @@ During my contract with the **State of Ohio - Opportunity for Ohioans with Disab
 
 📧 **Email:** [princeton.strong@outlook.com](mailto:princeton.strong@outlook.com)  
 
-I’m always excited to connect with like-minded professionals, exchange ideas, and explore new opportunities in **DevOps, cloud automation, and platform engineering**. Feel free to reach out—I’d love to collaborate! 🚀  
+I’m always excited to connect with like-minded professionals, exchange ideas, and explore new opportunities in **DevOps, cloud automation, and platform engineering**. Feel free to reach out I’d love to collaborate! 🚀  
