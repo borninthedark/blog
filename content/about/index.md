@@ -7,7 +7,7 @@ layout = "single"
 
 # About Me  
 
-Welcome! I’m **Princeton A. Strong**, a **DevOps Engineer** and **Cloud Automation Consultant** passionate about **designing, deploying, and automating scalable infrastructure solutions** in **Linux-based environments**.  
+Welcome! I’m **Princeton A. Strong**, a **DevOps Engineer** and **Cloud Automation Consultant** passionate about **designing, deploying, and automating scalable infrastructure solutions** in the cloud or on-premises.   
 
 I thrive in **collaborative, fast-paced settings**, specializing in **containerization (Docker, Kubernetes)**, **CI/CD automation**, and **cloud infrastructure optimization** to drive **efficiency, security, and high availability**.
 
@@ -28,12 +28,12 @@ I thrive in **collaborative, fast-paced settings**, specializing in **containeri
 
 ## 🛠 Core Skills & Tools  
 
-✅ **Languages & Scripting:** Python, Bash, PowerShell  
-✅ **Infrastructure as Code:** Terraform, CloudFormation, Ansible, Packer  
-✅ **Cloud & Containers:** AWS, Azure, Linux, Docker, Kubernetes  
+✅ **Languages & Scripting:** Python, Golang, C#, Bash, PowerShell  
+✅ **Infrastructure as Code:** Terraform, CloudFormation, Ansible, Packer, Azure Bicep, ARM Templates 
+✅ **Cloud & Containers:** AWS, Azure, Linux, Docker, Kubernetes, Helm, Podman, Argo CD
 ✅ **CI/CD & Automation:** Jenkins, GitHub Actions, TeamCity, Rundeck  
-✅ **Security & Monitoring:** IAM, Prometheus, Grafana, Splunk  
-✅ **Version Control:** Git, Bitbucket, SVN  
+✅ **Security & Monitoring:** IAM, Prometheus, Grafana, Splunk, Dynatrace
+✅ **Version Control:** Git, Bitbucket, SVN, Gitea
 
 ---
 
@@ -86,8 +86,8 @@ During my contract with the **State of Ohio - Opportunity for Ohioans with Disab
 
 ## 📖 Continuing Education & Professional Development  
 
-- Actively expanding expertise in **Python, C++, TypeScript**, and **Cloud Automation**.  
-- Ongoing **AWS, Azure, and Kubernetes training** to stay ahead of evolving cloud and devsecops technologies.  
+- Actively expanding expertise in **Python, C++, and, JavaScript/TypeScript**.  
+- Ongoing **Security and Kubernetes** training to stay ahead in an ever evolving cloud and devsecops technological landscape.  
 
 ---
 
