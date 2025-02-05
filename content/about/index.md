@@ -11,20 +11,18 @@ Welcome! I’m **Princeton A. Strong**, a **DevOps Engineer** and **Cloud Automa
 
 I thrive in **collaborative, fast-paced settings**, specializing in **containerization (Docker, Kubernetes)**, **CI/CD automation**, and **cloud infrastructure optimization** to drive **efficiency, security, and high availability**.
 
-{{< figure src="/about/user.jpg" alt="Profile Picture" class="about-profile" >}}
-
 ---
 
 ## 🌟 Interests  
 
-Beyond my passion for DevOps and cloud automation, I love exploring new horizons—whether that’s through technology, adventure, or creativity.  
+Beyond my passion for DevOps and cloud automation, I’m always looking for new ways to explore, create, and grow—whether through technology, storytelling, or hands-on experiences.  
 
-🥘 **Cooking:** Late nights studying were often accompanied by reruns of **Iron Chef**, where I admired the skill and dedication of **Chen Kenichi**. His work ethic and mastery of Sichuan cuisine inspired me to bring the same passion and precision into everything I do—whether in the kitchen or in my career.  
-🌲 **The Outdoors:** Hiking, camping, and finding peace in nature.  
-🖖 **Star Trek: Deep Space Nine:** A masterpiece of storytelling, diplomacy, and complex characters.  
-🎵 **Music:** I'd say I'm influenced by the smooth vocals of **Luther Vandross**, the cinematic compositions of **Ryuichi Sakamoto**, the electronic innovation of **BT**, the lyrical genius of **MF DOOM**, the timeless soul of **Anita Baker**, and the soothing elegance of **Sade**.  
-🐧 **Gentoo Linux:** Customization, optimization, and the joy of fine-tuning every detail.  
-🚀 **Exploring New Frontiers:** Whether it’s in tech, travel, or personal growth, I’m always eager to learn and push boundaries.  
+🥘 **Cooking:** Some of my best late-night study sessions were accompanied by reruns of **Iron Chef**. Watching **Chen Kenichi** work with such precision and creativity made me want to approach my own work—whether in tech or the kitchen—with that same level of dedication and passion.  
+🌲 **The Outdoors:** There’s something grounding about hiking and camping. Stepping away from screens, breathing fresh air, and taking in the quiet of nature helps me reset and find new perspectives.  
+🖖 **Science Fiction & Storytelling:** **Star Trek: Deep Space Nine** isn’t just great sci-fi—it’s a masterclass in leadership, diplomacy, and adaptability. Its complex characters and evolving storylines have stuck with me, shaping how I approach problem-solving and teamwork.  
+🎵 **Music:** My taste spans smooth R&B, electronic innovation, and poetic lyricism. I find inspiration in **Luther Vandross’s** soulful melodies, **Ryuichi Sakamoto’s** cinematic compositions, **BT’s** pioneering sound design, **MF DOOM’s** intricate wordplay, **Anita Baker’s** timeless vocals, and **Sade’s** effortless elegance. Whether working or unwinding, music is always part of the experience.  
+🐧 **Open-Source & Customization:** I have a deep appreciation for **Gentoo Linux**, not just as an OS but as a philosophy—taking the time to build something optimized for exactly what you need. There’s a certain satisfaction in fine-tuning every detail.  
+🚀 **Exploring New Frontiers:** Whether it’s diving into a new technology, learning a new skill, or just pushing myself outside my comfort zone, I’m always looking for the next challenge.  
 
 
 ---
