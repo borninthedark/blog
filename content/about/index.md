@@ -15,6 +15,19 @@ I thrive in **collaborative, fast-paced settings**, specializing in **containeri
 
 ---
 
+## 🌟 Interests  
+
+Beyond my passion for DevOps and cloud automation, I love exploring new horizons—whether that’s through technology, adventure, or creativity.  
+
+🥘 **Cooking:** Late nights studying were often accompanied by reruns of **Iron Chef**, where I admired the skill and dedication of **Chen Kenichi**. His work ethic and mastery of Sichuan cuisine inspired me to bring the same passion and precision into everything I do—whether in the kitchen or in my career.  
+🌲 **The Outdoors:** Hiking, camping, and finding peace in nature.  
+🖖 **Star Trek: Deep Space Nine:** A masterpiece of storytelling, diplomacy, and complex characters that'll forever have a piece of my heart.  
+🎵 **Music:** Influenced by the smooth vocals of **Luther Vandross**, the cinematic compositions of **Ryuichi Sakamoto**, the electronic innovation of **BT**, the lyrical genius of **MF DOOM**, and the timeless soul of **Anita Baker**.  
+🐧 **Gentoo Linux:** Customization, optimization, and the joy of fine-tuning every detail on AMD Hardware.  
+🚀 **Exploring New Frontiers:** Whether it’s in tech, travel, or personal growth, I’m always eager to learn and push boundaries.  
+
+---
+
 ## 📜 Certifications  
 
 ✔ **CNCF:** Certified Kubernetes Administrator (CKA), Certified Kubernetes Application Developer (CKAD)  
@@ -90,11 +103,8 @@ During my contract with the **State of Ohio - Opportunity for Ohioans with Disab
 - Ongoing **Security and Kubernetes** training to stay ahead in an ever evolving cloud and devsecops technological landscape.  
 
 ---
+## 📬 Let’s Connect!  
 
-## 📬 Let's Connect!  
+📧 **Email:** [princeton.strong@outlook.com](mailto:princeton.strong@outlook.com)  
 
-📧 Email: [princeton.strong@outlook.com](mailto:princeton.strong@outlook.com)  
-
----
-
-🚀 Looking forward to connecting!
+I’m always excited to connect with like-minded professionals, exchange ideas, and explore new opportunities in **DevOps, cloud automation, and platform engineering**. Feel free to reach out—I’d love to collaborate! 🚀  
