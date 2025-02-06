@@ -5,7 +5,7 @@ languageCode = 'en-us'
 theme = "hugo-themes-nightfall"
 
 [params.styles]
-color = "green"
+color = "orange"
 
 [menu]
   [[menu.header]]
@@ -16,7 +16,7 @@ color = "green"
 [params]
 user = "$USER"
 hostname = "online"
-footerHtml = '© 2025 Princeton A. Strong. Licensed under the Apache License 2.0.'
+footerHtml = '© 2025, CC-0, Princeton A. Strong.'
   [params.author]
     name = "Princeton A. Strong"  # Website and RSS feed author
     email = "princeton.strong@outlook.com"  # RSS feed email address
