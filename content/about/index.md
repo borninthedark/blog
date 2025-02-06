@@ -5,11 +5,9 @@ draft = false
 layout = "single"
 +++
 
-# About Me  
+I’m **Princeton A. Strong**, a **DevOps Engineer** and **Cloud Automation Consultant** passionate about **designing, deploying, and automating scalable infrastructure solutions** in the cloud or on-premises.   
 
-Welcome! I’m **Princeton A. Strong**, a **DevOps Engineer** and **Cloud Automation Consultant** passionate about **designing, deploying, and automating scalable infrastructure solutions** in the cloud or on-premises.   
-
-I thrive in **collaborative, fast-paced settings**, specializing in **containerization (Docker, Kubernetes)**, **CI/CD automation**, and **cloud infrastructure optimization** to drive **efficiency, security, and high availability**.
+I really thrive in **collaborative, fast-paced settings**, specializing in **containerization (Docker, Kubernetes)**, **CI/CD automation**, and **cloud infrastructure optimization** to drive **efficiency, security, and high availability**.
 
 ---
 

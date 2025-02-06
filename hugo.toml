@@ -11,7 +11,7 @@ color = "orange"
   [[menu.header]]
     name = "about"
     weight = 0
-    url = "me"
+    url = "/about"
 
 [params]
 user = "$USER"
