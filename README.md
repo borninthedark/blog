@@ -1,1 +1,1 @@
-# about
+# generic hugo blog
