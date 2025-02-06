@@ -9,13 +9,8 @@ color = "orange"
 
 [menu]
   [[menu.header]]
-    name = "about"
-    weight = 0
-    url = "/about"
-  [[menu.header]]
-    name = "interests"
-    url = "/about/interests/"
-    parent = "Hello, World!"
+    name = "About"
+    url = "/about/"
     weight = 1
 
 
