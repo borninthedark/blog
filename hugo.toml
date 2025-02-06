@@ -12,6 +12,12 @@ color = "orange"
     name = "about"
     weight = 0
     url = "/about"
+  [[menu.header]]
+    name = "interests"
+    url = "/about/interests/"
+    parent = "Hello, World!"
+    weight = 1
+
 
 [params]
 user = "$USER"
