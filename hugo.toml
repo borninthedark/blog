@@ -1,6 +1,6 @@
 # hugo.toml for my Hugo Site
 
-baseURL = 'https://princetonstrong.online'
+baseURL = 'https://blog.princetonstrong.online'
 languageCode = 'en-us'
 theme = "hugo-themes-nightfall"
 
