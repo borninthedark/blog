@@ -11,7 +11,7 @@ I really thrive in **collaborative, fast-paced settings**, specializing in **con
 
 ---
 
-## 📜 Certifications  
+## 📜 Active Certifications  
 
 ✔ **CNCF:** Certified Kubernetes Administrator (CKA), Certified Kubernetes Application Developer (CKAD)  
 ✔ **AWS:** Solutions Architect – Associate, Cloud Practitioner  
