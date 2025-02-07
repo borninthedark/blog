@@ -1,0 +1,11 @@
+title = "Hello, World!"
+contentDir = "about"
+publishDir = "public/about"
+
+theme = "simple-resume"
+disableKinds = ["taxonomy", "term"]
+
+[[menu]]
+[[menu.before]]
+  name = "Blog"
+  url = "https://blog.princetonstrong.online" 
