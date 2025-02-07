@@ -9,9 +9,9 @@ color = "orange"
 
 [menu]
   [[menu.header]]
-    name = "About"
-    url = "/about/"
-    weight = 1
+    name = "about"
+    url = "about"
+    weight = 0
 
 
 [params]
