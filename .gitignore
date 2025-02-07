@@ -1,9 +1,3 @@
-# === Hugo-generated files (do not commit) ===
-/public/                  # Static site output
-/resources/               # Processed assets
-/hugo_stats.json          # Hugo statistics file
-/assets/js/bundle.js      # Generated JS bundle (if applicable)
-
 # === Build & Cache directories ===
 /dist/                    # Distribution directory
 /tmp/                     # Temporary files
