@@ -33,7 +33,7 @@ aria = "My e-Mail Address"
 
 [[params.social]]
 key = 1
-name = "Home"
+name = "Start"
 url = "https://princetonstrong.online"
 
 [[params.social]]
