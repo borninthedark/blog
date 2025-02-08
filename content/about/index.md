@@ -5,9 +5,9 @@ draft = false
 layout = "single"
 +++
 
-I’m **Princeton A. Strong**, a **DevOps Engineer** and **Cloud Automation Consultant** passionate about **designing, deploying, and automating scalable infrastructure solutions** in the cloud or on-premises.   
+I’m **Princeton A. Strong**, a **DevOps Engineer and Cloud Automation Consultant** with **7+ years of experience** in **building scalable infrastructure**, **automating deployments**, and **optimizing cloud environments**. My expertise spans across **cloud platforms, container orchestration, security, monitoring, and CI/CD automation**, enabling teams to **deliver reliable and high-performing solutions** efficiently.  
 
-I really thrive in **collaborative, fast-paced settings**, specializing in **containerization (Docker, Kubernetes)**, **CI/CD Automation**, and **Cloud Infrastructure Optimization** to drive **efficiency, security, and high availability**.
+I thrive in **fast-paced, collaborative environments**, specializing in **containerization (Docker, Kubernetes)**, **Infrastructure as Code (Terraform, CloudFormation, Ansible)**, and **CI/CD automation** to improve **efficiency, security, and cost-effectiveness**.
 
 ---
 
@@ -24,70 +24,56 @@ I really thrive in **collaborative, fast-paced settings**, specializing in **con
 
 ## 🛠 Core Skills & Tools  
 
-✅ **Languages & Scripting:** Python, Golang, C#, Bash, PowerShell  
-✅ **Infrastructure as Code:** Terraform, CloudFormation, Ansible, Packer, Azure Bicep
-✅ **Cloud & Containers:** AWS, Azure, Linux, Docker, Kubernetes, Helm, Podman, Argo CD
+✅ **Cloud & Containers:** AWS, Azure, Linux, Docker, Kubernetes, Helm, Podman, Argo CD  
+✅ **Infrastructure as Code (IaC):** Terraform, CloudFormation, Ansible, Packer, Azure Bicep  
 ✅ **CI/CD & Automation:** Jenkins, GitHub Actions, TeamCity, Rundeck  
-✅ **Security & Monitoring:** IAM, Prometheus, Grafana, Splunk, Dynatrace
-✅ **Version Control:** Git, Bitbucket, SVN, Gitea
+✅ **Security & Compliance:** IAM, DevSecOps, Prometheus, Grafana, Splunk, Dynatrace  
+✅ **Languages & Scripting:** Python, Golang, C#, Bash, PowerShell  
+✅ **Version Control & Collaboration:** Git, Bitbucket, SVN, Gitea  
 
 ---
 
-## 💼 Professional Experience  
+## 🚀 DevOps & Cloud Expertise  
 
-### **Freelance DevOps Engineer | Cloud & Automation Consultant** (2022 – Present)  
+- **Cloud Infrastructure & Automation**  
+  - Designed and deployed **scalable cloud environments** with **Terraform, CloudFormation, and Kubernetes**, ensuring **high availability and security**.  
+  - Automated infrastructure provisioning and management for **AWS and Azure environments**, reducing deployment time and increasing consistency.  
+  - Developed **custom-built OS images and AMIs** to standardize deployments and improve provisioning efficiency.  
 
-As a **Freelance DevOps Engineer**, I help organizations **design, deploy, and optimize cloud infrastructure**, ensuring **scalability, high availability, and security**. My expertise includes **Infrastructure as Code (IaC), CI/CD automation, monitoring solutions, and cloud cost optimization**.
+- **CI/CD Pipeline Optimization**  
+  - Built and maintained **fully automated CI/CD pipelines** using **Jenkins, GitHub Actions, and TeamCity** to streamline deployment workflows.  
+  - Integrated **security compliance checks** within CI/CD pipelines to align with **DevSecOps best practices**.  
+  - Automated testing, container builds, and deployments, reducing manual effort and minimizing errors.  
 
-- **Designed & deployed cloud infrastructure** using **Terraform, AWS CloudFormation, and Docker Compose**.  
-- **Built and maintained CI/CD pipelines** with **Jenkins, GitHub Actions, and Ansible**, streamlining deployment processes.  
-- **Implemented real-time monitoring solutions** using **Prometheus and Grafana**, improving observability and performance tuning.  
-- **Optimized cloud costs and security**, reducing infrastructure expenses through **IAM best practices, auto-scaling, and automated shutdown policies**.  
- 
-### **Enterprise Security Architect | Booz Allen Hamilton** (2020 – 2022)  
+- **Containerization & Orchestration**  
+  - Containerized **legacy applications** to improve portability, scalability, and ease of deployment across multiple environments.  
+  - Deployed and managed **Kubernetes clusters**, optimizing workload distribution and improving application resilience.  
+  - Leveraged **Helm and Argo CD** for automated deployments and enhanced application lifecycle management.  
 
-At Booz Allen Hamilton, I collaborated with cross-functional teams to **design, automate, and secure AWS cloud environments** while improving DevSecOps practices.
+- **Security & Compliance**  
+  - Developed **IAM security policies** to enforce least-privilege access, ensuring compliance with industry standards.  
+  - Implemented **cloud security best practices**, including **automated logging, access controls, and vulnerability scanning**.  
+  - Designed **security compliance metrics** and automated alerting solutions with **Prometheus, Grafana, Splunk, and Dynatrace**.  
 
-- **Built AWS infrastructure** using **Terraform Cloud/Enterprise and HashiCorp Sentinel** for compliance and scalability.  
-- **Deployed containerized applications** using **Docker and Kubernetes** to enhance efficiency and resilience.  
-- **Implemented IAM security policies**, ensuring compliance and secure cloud environments.  
-- **Automated deployments** using **GitHub Actions and Ansible**, improving operational efficiency.  
-- **Led security automation initiatives** with **Splunk, VictorOps, and SignalFX**, enhancing real-time security compliance.  
-- **Developed infrastructure cost-saving policies**, reducing expenses through automated **EC2 shutdown schedules**.  
-- **Managed Ansible Playbooks** in GitHub for improved configuration management and version control.  
-
-### **DevOps Engineer | Factual Data** (2018 – 2020)  
-
-At Factual Data, I played a key role in **automating infrastructure, optimizing CI/CD pipelines, and supporting Java-based applications**.
-
-- **Configured CI/CD pipelines** with **Jenkins, TeamCity**, and **Ansible** to streamline deployments.  
-- **Supported Java applications** on **Apache Tomcat (IIS & Linux environments)**, ensuring stability and availability.  
-- **Implemented security compliance monitoring** using **Splunk & Dynatrace**, strengthening DevSecOps practices.  
-- **Developed cost-saving infrastructure policies**, reducing unnecessary cloud expenses.  
-- **Managed version-controlled configurations** in **Bitbucket and SVN**, improving consistency.  
-- **Automated system logging and cleanup tasks** using **PowerShell**, optimizing resource utilization.  
-- **Migrated Java applications to OpenJDK**, lowering licensing costs and improving maintainability.  
-
-### **Information Technologist I | State of Ohio - OOD (Contract)** (2018)  
-
-During my contract with the **State of Ohio - Opportunity for Ohioans with Disabilities (OOD)**, I provided **technical support and system administration** while maintaining strict **security compliance**, and providing grat customer service. 
-
-- **Provided enterprise-level Windows 10 support**, ensuring secure system access.  
-- **Developed PowerShell scripts** for **Active Directory automation**, streamlining secure user data retrieval.  
-- **Managed service requests** using **ServiceNow**, following government security protocols.  
-- **Performed hardware testing and system maintenance**, ensuring compliance with state regulations.  
-- **Provided remote technical support** using **SCOM/SCCM**, ensuring secure and efficient troubleshooting.  
+- **Cost Optimization & Performance Monitoring**  
+  - Developed **cost-saving infrastructure policies**, including **auto-scaling, instance scheduling, and automated shutdown processes** to reduce cloud expenses.  
+  - Deployed **real-time monitoring solutions** using **Prometheus and Grafana**, enabling proactive performance tuning and incident response.  
+  - Streamlined **logging and observability** through **centralized logging solutions (ELK, Splunk)**, improving troubleshooting and security monitoring.  
 
 ---
 
-## 📖 Continuing Education & Professional Development  
+## 📖 Continuous Learning & Development  
 
-- Actively expanding expertise in **Python, C++, and, JavaScript/TypeScript**.  
-- Ongoing **Security and Kubernetes** training to stay ahead in an ever evolving cloud and devsecops technological landscape.  
+I am committed to **continuous learning** and staying ahead in **cloud computing, automation, and DevOps best practices**. Currently focused on:  
+
+- **Expanding expertise in programming languages** (Python, Golang, and JavaScript/TypeScript).  
+- **Advancing knowledge in security automation**, including **zero-trust architecture and container security**.  
+- **Enhancing Kubernetes automation** through **GitOps practices and custom operator development**.  
 
 ---
+
 ## 📬 Let’s Connect!  
 
 📧 **Email:** [princeton.strong@outlook.com](mailto:princeton.strong@outlook.com)  
 
-I’m always excited to connect with like-minded professionals, exchange ideas, and explore new opportunities in **DevOps, cloud automation, and platform engineering**. Feel free to reach out I’d love to collaborate! 🚀  
+I’m always excited to **collaborate on DevOps projects, discuss cloud automation strategies, and share best practices**. If you're looking for **a skilled DevOps Engineer to optimize your cloud infrastructure**, feel free to reach out! 🚀  
