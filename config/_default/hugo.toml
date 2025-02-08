@@ -36,3 +36,13 @@ key = 1
 name = "Home"
 url = "https://princetonstrong.online"
 
+[[params.social]]
+key = 2
+name = "Gallery"
+url = "https://gallery.princetonstrong.online"
+
+[[params.social]]
+key = 3
+name = "Wiki"
+url = "https://wiki.princetonstrong.online"
+
