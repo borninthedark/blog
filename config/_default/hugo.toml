@@ -36,9 +36,4 @@ key = 1
 name = "Start"
 url = "https://princetonstrong.online"
 
-[[params.social]]
-key = 2
-name = "Gallery"
-url = "https://gallery.princetonstrong.online"
-
 
