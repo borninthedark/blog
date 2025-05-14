@@ -20,7 +20,7 @@ hostname = "online"
 footerHtml = '© 2025, CC-0, Princeton A. Strong.'
   [params.author]
     name = "Princeton A. Strong"  # Website and RSS feed author
-    email = "princeton.strong@outlook.com"  # RSS feed email address
+    email = "info@princetonstrong.online"  # RSS feed email address
 
 readingTime = true  # Show reading time on post page
 published = true  # Show published data on post page
@@ -28,7 +28,7 @@ published = true  # Show published data on post page
 [[params.social]]
 key = 0
 name = "Email"
-url = "mailto:princeton.strong@outlook.com"
+url = "mailto:info@princetonstrong.online""
 aria = "My e-Mail Address"
 
 [[params.social]]
