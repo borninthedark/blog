@@ -28,7 +28,7 @@ published = true  # Show published data on post page
 [[params.social]]
 key = 0
 name = "Email"
-url = "mailto:info@princetonstrong.online""
+url = "mailto:info@princetonstrong.online"
 aria = "My e-Mail Address"
 
 [[params.social]]
