@@ -64,10 +64,10 @@ I thrive in **fast-paced, collaborative environments**, specializing in **contai
 
 ## 📖 Continuous Learning & Development  
 
-I am committed to **continuous learning** and staying ahead in **cloud computing, automation, and DevOps best practices**. Currently focused on:  
+I am committed to **continuous learning** and staying ahead in **cloud computing, automation, and DevSecOps best practices**. Currently focused on:  
 
-- **Expanding expertise in programming languages** (Python, Golang, and JavaScript/TypeScript).  
-- **Advancing knowledge in security automation**, including **zero-trust architecture and container security**.  
+- **Expanding expertise in programming languages** (Python, Golang, and JSonnet).  
+- **Advancing knowledge in security automation**, including **zero-trust architecture, shift left development practices, and container security**.  
 - **Enhancing Kubernetes automation** through **GitOps practices and custom operator development**.  
 
 ---
@@ -76,4 +76,4 @@ I am committed to **continuous learning** and staying ahead in **cloud computing
 
 📧 **Email:** [info@princetonstrong.online](mailto:info@princetonstrong.online)  
 
-I’m always excited to **collaborate on DevSecOps projects, discuss cloud automation strategies, and share best practices**. If you're looking for **a skilled DevOps Engineer to optimize your cloud infrastructure**, feel free to reach out! 🚀  
+I’m always excited to **collaborate on DevSecOps projects, discuss cloud automation strategies, and share best practices**. If you're looking for **a skilled DevSecOps Engineer to optimize your cloud infrastructure**, feel free to reach out! 🚀  
