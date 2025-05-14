@@ -1,11 +1,11 @@
 +++
 title = "Hello, World!"
-date = "2025-02-04"
+date = "2025-05-13"
 draft = false
 layout = "single"
 +++
 
-I’m **Princeton A. Strong**, a **DevOps Engineer and Cloud Automation Consultant** with **7+ years of experience** in **building scalable infrastructure**, **automating deployments**, and **optimizing cloud environments**. My expertise spans across **cloud platforms, container orchestration, security, monitoring, and CI/CD automation**, enabling teams to **deliver reliable and high-performing solutions** efficiently.  
+I’m **Princeton A. Strong**, a **DevSecOps Engineer and Cloud Automation Consultant** with **7+ years of experience** in **building scalable infrastructure**, **automating deployments**, and **optimizing cloud environments**. My expertise spans across **cloud platforms, container orchestration, security, monitoring, and CI/CD automation**, enabling teams to **deliver reliable and high-performing solutions** efficiently.  
 
 I thrive in **fast-paced, collaborative environments**, specializing in **containerization (Docker, Kubernetes)**, **Infrastructure as Code (Terraform, CloudFormation, Ansible)**, and **CI/CD automation** to improve **efficiency, security, and cost-effectiveness**.
 
@@ -15,7 +15,7 @@ I thrive in **fast-paced, collaborative environments**, specializing in **contai
 
 ✔ **CNCF:** Certified Kubernetes Administrator (CKA), Certified Kubernetes Application Developer (CKAD)  
 ✔ **AWS:** Solutions Architect – Associate, Cloud Practitioner  
-✔ **Microsoft:** Azure Administrator, Azure DevOps Engineer Expert  
+✔ **Microsoft:** Azure Administrator, Azure DevOps Engineer - Expert, Azure Solutions Architect - Expert   
 ✔ **Linux Foundation:** Certified System Administrator  
 ✔ **HashiCorp:** Terraform Associate  
 ✔ **CloudBees:** Jenkins Engineer  
@@ -74,6 +74,6 @@ I am committed to **continuous learning** and staying ahead in **cloud computing
 
 ## 📬 Let’s Connect!  
 
-📧 **Email:** [princeton.strong@outlook.com](mailto:princeton.strong@outlook.com)  
+📧 **Email:** [info@princetonstrong.online](mailto:info@princetonstrong.online)  
 
-I’m always excited to **collaborate on DevOps projects, discuss cloud automation strategies, and share best practices**. If you're looking for **a skilled DevOps Engineer to optimize your cloud infrastructure**, feel free to reach out! 🚀  
+I’m always excited to **collaborate on DevSecOps projects, discuss cloud automation strategies, and share best practices**. If you're looking for **a skilled DevOps Engineer to optimize your cloud infrastructure**, feel free to reach out! 🚀  
